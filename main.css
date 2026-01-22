@@ -9,3 +9,14 @@ body{
     color: blue;
     background-color: #d3d3d3;
 }
+
+.linkedin{
+    front-family: 'Arial';
+    color: black;
+    text-size-adjust: 300px;
+}
+.github{
+    front-family: 'Arial';
+    color: black;
+    text-size-adjust: 300px;
+}
