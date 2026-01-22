@@ -1,26 +1,20 @@
 head{
-    front-family: 'Arial';
+    font-family: 'Arial';
     color: blue;
     background-color: #d3d3d3;
 }
 
 body{
-    front-family: 'Arial';
+    font-family: 'Arial';
     color: blue;
     background-color: #d3d3d3;
 }
 
 .GFACT{
-    front-family: 'Arial';
+    font-family: 'Arial';
     color: black;
-    text-size-adjust: 300px;
 }
 .aws{
-    front-family: 'Arial';
+    font-family: 'Arial';
     color: black;
-    text-size-adjust: 300px;
 }
-/* .GFACTPhoto{
-    
-
-} */

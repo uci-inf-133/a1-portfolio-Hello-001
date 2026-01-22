@@ -10,13 +10,13 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 1. How many assignment points do you believe you completed (replace the *'s with your numbers)?
 
-9/10
+8.9/10
 - 1/1 Readme
 - 2/2 Basic HTML content
 - 1/1 Basic CSS styling
 - 1/1 Advanced feature
 - 2/2 Responsive layout
-- 1/1 Passes validation checks
+- 0.9/1 Passes validation checks
 - 1/2 Embraces spirit of the assignment
 
 2. What (a) basic features, (b) CSS features, and (c) advanced features did you include in your portfolio?
@@ -40,7 +40,8 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 
 3. Did you ignore any of the warnings or errors presented by the accessibility checker? If so, why does this not seem like an accessibility concern? If it's useful, you can consolidate your thoughts on multiple warnings/errors if the rationale is similar.
-
+    - I did ignore some of the errors, I was running out of time and didn't have a chance to change the contact html for the errors. 
+    It could be an issue due to differnet input forums on the same page.
 
 
 4. How long, in hours, did it take you to complete this assignment?
@@ -51,7 +52,7 @@ Talking to classmates about class material, assignment requirements, etc. is a g
     * https://getbootstrap.com/docs/5.3/forms/input-group/
     * https://getbootstrap.com/docs/4.3/components/navbar/
     * https://www.w3schools.com/html/html_basic.asp
-    * chatgpt - pointing out the differences between version 4.0 and 5.0
+    * chatgpt - pointing out the differences between version 4.0 and 5.0, for accessibility help
 
 
 6. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
