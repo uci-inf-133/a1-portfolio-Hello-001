@@ -22,15 +22,20 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 2. What (a) basic features, (b) CSS features, and (c) advanced features did you include in your portfolio?
 
 (a) Basic features
+    - Links to external pages
+    - Multiple pages with navigation
+    - Couple of images with descriptive alt attributes
+    - Heading and paragraph text
 
 
 
 (b) CSS features
-
+    - Using Bootsrap CSS Helpers
+    - Modifying 
 
 
 (c) Advanced features
-
+    - added a contact form
 
 
 
@@ -43,12 +48,14 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 
 5. What online resources did you consult when completing this assignment? (list specific URLs, describe queries to Generative AI, or use of AI-based code completion)
-
+    * https://getbootstrap.com/docs/5.3/forms/input-group/
+    * https://getbootstrap.com/docs/4.3/components/navbar/
+    * https://www.w3schools.com/html/html_basic.asp
 
 
 6. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
-
+    * Victor Chen - about how the differnet features that are in Bootsrap
 
 
 7. Is there anything special we need to know in order to run your code?
-
+    * I hope that you enjoy the website
